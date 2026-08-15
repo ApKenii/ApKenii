@@ -9,7 +9,7 @@ Transformo dados brutos em insights acionáveis para solução de problemas comp
 ### Sobre mim
 
 - 🎓 Cursando **Ciência de Dados**
-- 💼 Atuando como **Analista de Dados**
+- 💼 Atuando como **Analista de Dados JR**
 - 🐍 Foco principal no ecossistema **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - 🎯 Atualmente estudando: **Machine Learning, SQL Avançado e Visualização de Dados**
 - 💡 Buscando colaborar em projetos de código aberto e desafios de Análise/Ciência de Dados
